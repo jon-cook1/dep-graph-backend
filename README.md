@@ -1,2 +1,1 @@
-# dep-graph-backend
-Backend logic for https://github.com/jon-cook1/dep-graph
+Variable Depedency Graph Nextjs Visualizer prototype for CSEd Research, for the working period of July 21st - August 2nd
